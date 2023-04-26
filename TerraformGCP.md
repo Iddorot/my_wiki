@@ -11,7 +11,7 @@
 Terraform is an IaC tool with With Terraform, you can provision, manage and automate your infrastructure resources in a declarative way, ensuring that the desired state of your resources is maintained.
 Multicloud support, open source, define the desired state, dependacies.
 
-## **Authenticate with GCP*:
+## **Authenticate with GCP**:
 - On your workstation:
   - Authenticate using the gcloud cli cmd - *gcloud auth application-default login*
 - In a vm on GCP:
