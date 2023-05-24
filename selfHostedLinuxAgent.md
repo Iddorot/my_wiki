@@ -4,7 +4,7 @@ How to create a self-hosted Linux Agent for Azure Devops Pipelines - on Windows 
 1. [Self-hosted Windows agents:](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops#authenticate-with-a-personal-access-token-pat)
     1. Authenticate with a personal access token (PAT) 
     2. Download and configure the agent
-1. [Set Up python](https://stackoverflow.com/questions/60936103/install-python-to-self-hosted-windows-build-agent):
+1. [Set Up python](https://dev.to/akaszynski/create-an-azure-self-hosted-agent-without-going-insane-173g):
 The Agent dir should looks like that, need to install python inside the x64 folder:
       
      ``` $AGENT_TOOLSDIRECTORY/
